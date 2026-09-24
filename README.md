@@ -1,2 +1,2 @@
 # Rshiny_APP
-My practice of building a simple Rshiny APP to plot gene expression
+An example of building a Rshiny APP to simplify plotting gene expression
